@@ -1,0 +1,50 @@
+hcpcs_code,hcpcs_description
+73110,"X-ray of wrist, minimum of 3 views"
+73560,"X-ray of knee, 1 or 2 views"
+73530,X-ray of hip during surgery
+73060,"X-ray of upper arm, minimum of 2 views"
+73030,"X-ray of shoulder, minimum of 2 views"
+72170,"X-ray of pelvis, 1 or 2 views"
+73510,X-ray of hip 2 or more views
+73564,"X-ray of knee, 4 or more views"
+73600,"X-ray of ankle, 2 views"
+73610,"X-ray of ankle, minimum of 3 views"
+73550,"X-ray of thigh, 2 views"
+73562,"X-ray of knee, 3 views"
+73500,X-ray of hip1 view
+73590,"X-ray of lower leg, 2 views"
+73565,"X-ray of both knees, standing, front to back view"
+73080,"X-ray of elbow, minimum of 3 views"
+73100,"X-ray of wrist, 2 views"
+73070,"X-ray of elbow, 2 views"
+73090,"X-ray of forearm, 2 views"
+73520,X-ray of hip minimum 2 views
+72190,"X-ray of pelvis, minimum of 3 views"
+72220,"X-ray of pelvis, minimum of 2 views"
+73010,X-ray of shoulder blade
+73020,"X-ray of shoulder, 1 view"
+72200,"X-ray of sacroiliac joints, less than 3 views"
+73525,X-ray of hip joint
+72202,"X-ray of sacroiliac joints, 3 or more views"
+73000,X-ray of collar bone
+73580,X-ray of knee joint
+73050,X-ray of collar bone
+77074,X-ray of bones
+73540,"X-ray of pelvis and hips, infant or child, minimum of 2 views"
+73615,X-ray of ankle joint
+73085,Radiological supervision and interpretation X-ray of elbow
+73500,"X-ray of hip, 1 view"
+73520,X-ray of both hips minimum 2 views
+73500,"X-ray of hip on one side of body, 1 view"
+73525,Radiological supervision and interpretation X-ray of hip joint
+73580,Radiological supervision and interpretation X-ray of knee joint
+73050,X-ray of both collar bones
+73615,Radiological supervision and interpretation X-ray of ankle joint
+73502,"X-ray of hip with pelvis, 2-3 views"
+73501,"X-ray of hip with pelvis, 1 view"
+73552,"X-ray of femur, minimum 2 views"
+73551,"X-ray of femur, 1 view"
+73522,"X-ray of both hips with pelvis, 3-4 views"
+73523,"X-ray of both hips with pelvis, minimum of 5 views"
+73521,"X-ray of both hips with pelvis, 2 views"
+73503,"X-ray of hip with pelvis, minimum of 4 views"
